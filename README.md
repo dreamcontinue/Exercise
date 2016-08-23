@@ -26,6 +26,7 @@
 | 查看分支(当前分支以*开头)            | git branch                             |
 | 提交到分支                           | git commit -m “[提交tag]”              |
 | 提交到远程仓库分支                   | git push origin [分支名]               |
+| 切换到原来分支以合并                 | git checkout [原来分支名]              |
 | 合并分支到当前分支                   | git merge [分支名]                     |
 | 删除分支                             | git branch -d [分支名]                 |
 
